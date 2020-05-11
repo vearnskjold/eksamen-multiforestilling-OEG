@@ -396,3 +396,19 @@ input:focus {
       .container {
         padding: 16px;
       }
+
+#w3mission {
+  width: 50%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 5px solid;
+  border-color: black #444 #888 #ccc;
+  border-radius: 4px;
+  background-color: #1f1f1f;
+  resize: none;
+  color: white;
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Playfair Display', serif;
+}
