@@ -9,6 +9,13 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+
+p {
+  text-align: center;
+  font-family: serif;
+  color: white;
+}
+
 /* Style the header */
 .header {
   background-color: #1f1f1f;
